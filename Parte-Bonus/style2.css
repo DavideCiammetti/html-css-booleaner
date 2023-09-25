@@ -3,28 +3,86 @@
     padding: 0;
 }
 
+body{
+    background-color: rgba(71, 21, 114, 0.3);
+}
+
+/*header*/
 .main-item{
     height: 150px;
     background-image: url("../image/pattern.png");
-    background-color: blueviolet;
+    background-color: blueviolet
+}
+
+.main-item img{
+    height: 150px;
 }
 
 .header-item{
     margin: 20px;
-    border-style: solid;
-}
-.main-item img{
-    height: 150px;
+    background-color: rgba(108, 9, 123, 0.2);
 }
 
 .header-item h1{
     font-size: 50px;
     margin-top: 10px;
     text-align: center;
-    color: #506c76;
+    color: #a405a4;
 }
 
 .header-item p{
     font-size: 25px;
     color: #8f023f;
 }
+
+.divisore{
+    height: 10px;
+}
+/* fine header*/
+
+/*main*/
+    /*section*/
+.central-main{
+    width: 100%;
+    text-align: center;
+}
+
+.central-main p{
+    font-size: 19px;
+    color: #8f023f;
+}
+    /* fine prima section*/
+
+    /*inizio seconda section*/
+
+.item-sec-3{
+    width: 600px;
+    height: 300px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    font-size: 30px;
+    background-color: chocolate;
+}
+
+
+
+.list{
+    width: 500px;
+    height: 400px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: 170px;
+    background-color: rgb(210, 172, 18);
+}
+
+    /*fine seconda section*/
+
+    /*inizio terza section*/
+table{
+    border-style: solid;
+}
+
+    /*fine terza section*/
