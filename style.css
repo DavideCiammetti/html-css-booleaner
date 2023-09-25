@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/************** 
+      header
+**************/
+.logo{
+    height: 200px;
+}
+
+.logo img{
+    width: 400px;
+    height: 200px;   
+}
+
+.logo{
+    background-image: url("image/pattern.png");
+    background-color: #4ea0ff;
+}
+
+.main-item{
+    margin-top: 30px;
+}
+
+.main-item h1{
+    font-size: 100px;
+}
+
+.first-p{
+    font-size: 45px;
+}
+
+.main-span{
+    color: #20a9e5;
+}
+
+.second-p{
+    font-size: 30px;
+}
+
+.span-subtitle{
+    color: rgb(117, 112, 112);
+}
+/************** 
+      header
+**************/
