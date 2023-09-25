@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-item{
+    height: 150px;
+    background-image: url("../image/pattern.png");
+    background-color: blueviolet;
+}
+
+.header-item{
+    margin: 20px;
+    border-style: solid;
+}
+.main-item img{
+    height: 150px;
+}
+
+.header-item h1{
+    font-size: 50px;
+    margin-top: 10px;
+    text-align: center;
+    color: #506c76;
+}
+
+.header-item p{
+    font-size: 25px;
+    color: #8f023f;
+}
