@@ -56,7 +56,7 @@ main{
 }
 
 .first-section {
-    height: 400px;
+    height: 580px;
     margin-top: 20px;
 }
 
@@ -64,9 +64,27 @@ main{
     width: 700px;
     height: 500px;
 }
-
-
-
 /**
 section (2)
+**/
+
+/**
+section (3)
+**/
+
+.second-section p{
+    font-size: 25px;
+}
+
+.second-section span{
+    background-color: yellow;
+}
+
+.list{
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+/**
+section (3)
 **/
