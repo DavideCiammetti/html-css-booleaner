@@ -88,3 +88,31 @@ section (3)
 /**
 section (3)
 **/
+
+/**
+section (4)
+**/
+
+.table{
+    margin-top: 30px;
+    font-size: 25px;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+.first-row{
+   background-color: #20a9e5
+   
+}
+
+.first-row td{
+    color: white;
+}
+
+.riga-color{
+    background-color: #b1e5f2;
+}
+
+/**
+section (4)
+**/
